@@ -1,4 +1,0 @@
-To use your IAM credentials to authenticate the Terraform AWS provider, set the AWS_ACCESS_KEY_ID environment variable.
-
-$ export AWS_ACCESS_KEY_ID=test
-$ export AWS_SECRET_ACCESS_KEY=test
